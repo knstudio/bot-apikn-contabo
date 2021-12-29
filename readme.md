@@ -24,3 +24,4 @@ You can make a support for this work by <a href="https://zapdasgalaxias.com.br">
 "# bot-zdg" 
 "# bot-apikn-contabo" 
 "# bot-apikn-contabo" 
+"# bot-apikn-contabo" 
