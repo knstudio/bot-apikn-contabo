@@ -23,3 +23,4 @@ Watch the tutorials:
 You can make a support for this work by <a href="https://zapdasgalaxias.com.br">Pedrinho da NASA</a>. Thanks
 "# bot-zdg" 
 "# bot-apikn-contabo" 
+"# bot-apikn-contabo" 
